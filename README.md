@@ -38,7 +38,7 @@ The syllabus is 100% hands-on and designed for school computer labs.
 ---
 
 ### 🔹 Canva (Class 7)
-![Canva Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1024px-Canva_icon_2021.svg.png)
+<img src="https://brandeps.com/logo-download/C/Canva-logo-02.png" alt="Canva Logo" width="150"/>
 
 1. **Introduction to Canva** – exploring dashboard, tools, templates.  
 2. **Logo Design** – shapes, text, icons, exporting as PNG.  
