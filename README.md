@@ -25,8 +25,6 @@ The syllabus is 100% hands-on and designed for school computer labs.
 
 ---
 
-## 🎯 Course Syllabus
-
 ### 🔹 Python (Class 7)
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
